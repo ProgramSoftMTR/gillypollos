@@ -1,0 +1,1 @@
+import{ct as e}from"./CdrLQ6mR.js";import{C as t}from"./DFU_ULzw.js";import{P as n,v as r}from"./D37Me2bH.js";var i=()=>!!n.get(r),a=()=>{let n=t(!1);return e(()=>{n.value=i()}),n};export{a as n,i as t};

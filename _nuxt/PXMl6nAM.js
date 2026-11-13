@@ -1,0 +1,1 @@
+import{Zn as e}from"./DgU6oB-N.js";import{C as t}from"./DFU_ULzw.js";var n=2e3,r=()=>{let r=t(!1);return{copied:r,copy:async t=>{await navigator.clipboard.writeText(t),r.value=!0,await e(n),r.value=!1}}};export{r as t};

@@ -1,0 +1,1 @@
+import{t as e}from"./CwM61jP2.js";var t=t=>({mobileBreakpoint:768,mobileProps:{showHeader:!0,titleText:t,zIndex:e,customClass:`chatbot-portal`}});export{t};

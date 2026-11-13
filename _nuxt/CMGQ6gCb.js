@@ -1,0 +1,1 @@
+var e=function(e){return e.TitleSpecial=`titleSpecial`,e.Title0=`title0`,e.Title1=`title1`,e.TitleHero=`titleHero`,e.Title2=`title2`,e.Heading1=`heading1`,e}({}),t=function(e){return e.Left=`left`,e.Center=`center`,e.Right=`right`,e}({}),n=function(e){return e.Default=`default`,e.Relaxed=`relaxed`,e}({});export{n,e as r,t};

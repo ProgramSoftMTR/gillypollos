@@ -1,0 +1,1 @@
+import{a as e}from"./D5E7rQsV.js";import{F as t,_ as n}from"./DFU_ULzw.js";import{Ht as r,Pt as i}from"./CdrLQ6mR.js";var a=a=>{let o=e(),s=`composer-lock-${i()}`;r(()=>t(a),e=>{e?o.addInlineInteractionLock(s):o.removeInlineInteractionLock(s)},{immediate:!0}),n(()=>{o.removeInlineInteractionLock(s)})};export{a as t};

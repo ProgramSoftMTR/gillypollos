@@ -1,0 +1,1 @@
+import{Jr as e}from"./DgU6oB-N.js";var t=async(t,n)=>{let[{data:r},i]=await e(t);if(i)return[null,i];let a=n.safeParse(r);return a.success?[a.data,null]:[null,a.error]};export{t};

@@ -1,0 +1,1 @@
+var e=[`B`,`KB`,`MB`,`GB`,`TB`],t=t=>{let n=0,r=t;for(;r>=1024&&n<e.length-1;)r/=1024,n++;return`${r.toFixed(2).replace(/\.00$/,``)} ${e[n]}`};export{t};

@@ -1,0 +1,1 @@
+import{er as e}from"./DgU6oB-N.js";import{o as t}from"./Cq_z-fJi.js";import{F as n}from"./DFU_ULzw.js";import{Ht as r}from"./CdrLQ6mR.js";var i=(i,a,o=t)=>{let{pause:s,resume:c}=e(a,o,{immediate:!1});return r(()=>n(i),e=>e?c():s(),{immediate:!0}),{pause:s}};export{i as t};

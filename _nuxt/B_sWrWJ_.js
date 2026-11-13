@@ -1,0 +1,1 @@
+import{X as e}from"./D37Me2bH.js";var t,n=0,r=!1,i=e=>e>1024?`desktop`:e>767?`tablet`:`mobile`,a=()=>{n=window.outerWidth||window.innerWidth||0,t=i(window.innerWidth||window.outerWidth)},o=()=>{r=!0,requestAnimationFrame(a),window.addEventListener(`resize`,a,{passive:!0})},s=()=>{r||o(),t===void 0&&a()},c=()=>e()?(s(),t):``,l=()=>e()?(s(),n):0;export{l as n,c as t};

@@ -1,0 +1,1 @@
+import{r as e}from"./vqWHJuX7.js";var t={...e,HostingerBackup:`hostinger_backup`,MixedFiles:`mixed_files`,MultiplePages:`multiple_pages`,TooManyArchives:`too_many_archives`},n={Name:`database_name`,User:`database_user`,Password:`database_password`},r={None:`none`,AnswerAgain:`answer_again`,Refused:`refused`};export{n,t as r,r as t};

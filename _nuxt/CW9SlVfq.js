@@ -1,0 +1,1 @@
+import{Ht as e,J as t,g as n}from"./CdrLQ6mR.js";import{F as r,T as i,_ as a}from"./DFU_ULzw.js";var o=Symbol(),s=`body`,c=e=>({target:e,openPopovers:i(new Set)}),l=()=>t(o,()=>c(s),!0),u=t=>{let{target:n,openPopovers:i}=l(),o=Symbol(),s=()=>{i.delete(o)};return e(()=>r(t),e=>{e?i.add(o):s()}),a(s),n},d=()=>{let{openPopovers:e}=l();return n(()=>e.size>0)};export{d as n,u as t};
